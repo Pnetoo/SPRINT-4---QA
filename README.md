@@ -24,7 +24,7 @@ Foram criados 10 casos de teste contemplando:
 - Dashboard administrativo de insights agregados
 
 Link do Azure Boards:
-[COLE AQUI O LINK DO AZURE]
+(https://dev.azure.com/RM560685/FIAP/_workitems/recentlyupdated/)
 
 ## Parte B - Testes Automatizados
 
@@ -38,7 +38,7 @@ Foram criados 4 casos de testes automatizados utilizando Postman:
 A collection e o environment do Postman estão disponíveis na pasta `/postman`.
 
 Link do vídeo de execução:
-[COLE AQUI O LINK DO VÍDEO]
+https://www.youtube.com/watch?v=L9VU8yt-ndo
 
 ## Evidências
 
